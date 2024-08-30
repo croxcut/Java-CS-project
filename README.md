@@ -7,7 +7,9 @@ Java Swing Auditorium Scheduling System
 sphagetti code due to the lack of time alloted to the project.
 
   feel free to add or refactor its structure, avoid as much as possible using AI to add
-snippets of code to be implemented.
+snippets of code to be implemented. 
+
+  Only Use AI tools as references not as a way to go easy on things.
 
   the aim of the refactoring of the previous project is not only to improve its code
 structure but to also improve the already strong development skills that one must 
