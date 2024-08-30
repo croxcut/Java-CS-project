@@ -15,7 +15,7 @@ snippets of code to be implemented.
 structure but to also improve the already strong development skills that one must 
 have during the project's lifetime. 
 
-#Links:
+# Links:
   
   for more questions and inquiries DM me on Facebook
   https://www.facebook.com/johnpaul.valenzuela.752
